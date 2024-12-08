@@ -42,7 +42,7 @@ Various techniques are employed, including data preprocessing, feature selection
 1. Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/NicoleDavidov/MachineLearningAssignmentBreastCancer.git
+git clone https://github.com/NicoleDavidov/BreastCancerMLAssignment.git
 Install the required dependencies:
 
 2. Copy code
